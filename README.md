@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezinneanne
-- 👀 I’m interested in web development for backend
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
-- 💞️ I’m looking to collaborate on Python projects and web projects in general
+- 👀 I’m a software engineer specialized in web development
+- 🌱 I'm looking forward to network and connect with other software engineers on this platform.
+- 💞️ I’m looking to collaborate on web projects and producing content.
 - 📫 How to reach me via my email... onwukaezinneanne@gmail.com
 
 <!---
