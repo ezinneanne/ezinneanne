@@ -5,6 +5,8 @@
 <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/myPicture.jpg' alt = 'My Picture' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ezinneanne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezinneanneemilia)](https://www.linkedin.com/in/ezinneanneemilia) [![Gmail Badge](https://img.shields.io/badge/-onwukaezinneanne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onwukaezinneanne@gmail.com)](mailto:onwukaezinneanne@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezinneanne" alt="ezinneanne" /> </p>
+
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ezinneanne&layout=compact">
 
@@ -16,9 +18,9 @@
  <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/vuedotjs.svg' width='30'/>
 
 ## Current Works
- * I'm writing technical articles :memo 
+ * I'm writing technical articles  
  * Learning MERN Stack 🌱 
- * Contributing to open source projects :rocket
+ * Contributing to open source projects
  
 ![Ezinne Anne's github stats](https://github-readme-stats.vercel.app/api?username=ezinneanne&show_icons=true&hide=[%22issues%22])
 
