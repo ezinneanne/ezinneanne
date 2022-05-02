@@ -2,7 +2,7 @@
 
 <h1>Welcome and thanks for stopping by...</h1>
 
-<img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/myPicture.jpg' alt = 'My Picture' align='right'/>
+<img style='width: 100%;' src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/myPicture.jpg' alt = 'My Picture' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ezinneanne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezinneanneemilia)](https://www.linkedin.com/in/ezinneanneemilia) [![Gmail Badge](https://img.shields.io/badge/-onwukaezinneanne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onwukaezinneanne@gmail.com)](mailto:onwukaezinneanne@gmail.com)[![Medium Account](https://img.shields.io/badge/-Ezinne%20Anne%Emilia-#000000?style=flat-square&logo=Medium&link=https://www.medium.com/@ezinneanne)](https://www.medium.com/@ezinneanne)
 
