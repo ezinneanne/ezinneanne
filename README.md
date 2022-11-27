@@ -18,12 +18,12 @@
  <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/vuedotjs.svg' width='30'/>
 
 ## Short Bio
-What do we call people who build applications and write about it or learn a new technology and write about it??? I'm one of them.
+What do we call people who build applications and write about it or learn a new technology and write about it??? I'm one of them 👀
 
 ## Current Works
- * I'm writing technical articles  
+ * I'm writing technical articles 📝 
  * Learning MERN Stack 🌱 
- * Contributing to open source projects
+ * Contributing to open source projects 🚀
  
 ![Ezinne Anne's github stats](https://github-readme-stats.vercel.app/api?username=ezinneanne&show_icons=true&hide=[%22issues%22])
 
