@@ -18,7 +18,7 @@
  <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/vuedotjs.svg' width='30'/>
 
 ## Short Bio
-What do we call people who build applications and write about it or learn a new technology and write about it??? I'm one of them
+What do we call people who build applications and write about it or learn a new technology and write about it??? I'm one of them.
 
 ## Current Works
  * I'm writing technical articles  
