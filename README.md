@@ -1,6 +1,6 @@
 ## Hi, I’m [ezinneanne](https://github.com/ezinneanne) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h1>Welcome and thanks for stopping by...</h1>
+<h1>Welcome and thanks for stopping by....</h1>
 
 <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/myPicture.jpg' alt = 'My Picture' align='right'/>
 
