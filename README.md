@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/myPicture.jpg' alt = 'My Picture' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ezinneanne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezinneanneemilia)](https://www.linkedin.com/in/ezinneanneemilia) [![Gmail Badge](https://img.shields.io/badge/-onwukaezinneanne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onwukaezinneanne@gmail.com)](mailto:onwukaezinneanne@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ezinneanne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezinneanneemilia)](https://www.linkedin.com/in/ezinneanneemilia) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezinneanne" alt="ezinneanne" /> </p>
 
 
