@@ -14,8 +14,7 @@
 <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/vuedotjs.svg' width='30'/>
  
  ## Technologies I Use
- <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/react.svg' width='33'/>
- <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/vuedotjs.svg' width='30'/>
+ <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/vuedotjs.svg' width='30'/>
 
 ## Short Bio
 What do we call people who build applications and write about it or learn a new technology and write about it??? I'm one of them 👀
