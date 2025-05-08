@@ -4,8 +4,10 @@
 
 <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/myPicture.jpg' alt = 'My Picture' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ezinneanne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezinneanneemilia)](https://www.linkedin.com/in/ezinneanneemilia) 
+[![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onwukaezinneanne@gmail.com)](mailto:onwukaezinneanne@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezinneanneemilia)](https://www.linkedin.com/in/ezinneanneemilia) [![Twitter/X Badge](https://img.shields.io/badge/-Twitter-black.svg?logo=X&logoColor=white)](https://x.com/ezinne_anne)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezinneanne" alt="ezinneanne" /> </p>
+
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ezinneanne&layout=compact">
@@ -17,12 +19,24 @@
  <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/ezinneanne/ezinneanne/blob/main/images/vuedotjs.svg' width='30'/>
 
 ## Short Bio
-What do we call people who build applications and write about it or learn a new technology and write about it??? I'm one of them 👀
+I am all about creating value and I do that through;- 
+- Writing articles or creating API/product documentation sites.
+- Learning, researching and building machine learning solutions.
+- Contributing actively to open source projects. 
 
 ## Current Works
  * I'm writing technical articles 📝 
- * Learning MERN Stack 🌱 
+ * Buiding ML projects 🌱 
  * Contributing to open source projects 🚀
+
+
+## Open To
+
+* Conducting AI Research for agricultural solutions
+* Collaborating on open source projects
+* Community building
+
+
  
 ![Ezinne Anne's github stats](https://github-readme-stats.vercel.app/api?username=ezinneanne&show_icons=true&hide=[%22issues%22])
 
