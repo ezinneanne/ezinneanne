@@ -35,6 +35,7 @@ I am all about creating value and I do that through;-
 * Conducting AI Research for agricultural solutions
 * Collaborating on open source projects
 * Community building
+* Advocacy through public speaking and creating content
 
 
  
