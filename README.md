@@ -26,7 +26,7 @@ I am all about creating value and I do that through;-
 
 ## Current Works
  * I'm writing technical articles 📝 
- * Buiding ML projects 🌱 
+ * Building ML projects 🌱 
  * Contributing to open source projects 🚀
 
 
